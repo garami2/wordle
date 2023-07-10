@@ -1,0 +1,14 @@
+.header-column {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header-title {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 30px;
+}
+.header-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
